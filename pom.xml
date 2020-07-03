@@ -7,7 +7,7 @@
 
   <packaging>pom</packaging>
 
-  <groupId>bettiah.iso</groupId>
+  <groupId>github.bettiah</groupId>
   <artifactId>iso80022</artifactId>
   <version>1.0-SNAPSHOT</version>
 
